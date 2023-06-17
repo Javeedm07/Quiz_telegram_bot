@@ -1,0 +1,13 @@
+#prerequisite
+
+⚠️ Important: Before running the code, make sure to install the required libraries and modules in your environment.
+
+Please install the following dependencies:
+- pandas
+- telegram.ext
+- sklearn
+- transformers
+
+These libraries are necessary for the Quiz Bot to function properly. Once you have installed them, you'll be all set to run the code and enjoy the quiz experience!
+
+#QuizBot #PythonCoding #TelegramBot #Dependencies
